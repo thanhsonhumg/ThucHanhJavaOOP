@@ -1,3 +1,4 @@
+//Bài tập giải hệ phương trình tuyến tính
 package BaiThucHanhJava.BaiThucHanhJava2101;
 import java.util.Scanner;
 public class App2 {
