@@ -1,5 +1,5 @@
 //Bài tập giải phương trình bậc 2
-package BaiThucHanhJava.BaiThucHanhJava2101;
+
 import java.util.Scanner;
 public class App1 {
 public static void main(String[] args) throws Exception{
