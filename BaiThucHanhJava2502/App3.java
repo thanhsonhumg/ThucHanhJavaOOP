@@ -17,7 +17,7 @@ public static void main(String[] args) {
         if (n <2) return flag = 0; 
         int i = 2;
         while(i <n){
-            if( n%i==0 ) {
+            if( n%i==0 ){
                 flag = 0;
                 break; 
             }
