@@ -1,4 +1,4 @@
-public class App2 {
+public class Bai2 {
 public static void main(String[] args) {
         double a = 1.23 ;
         double b = 3.45 ;
