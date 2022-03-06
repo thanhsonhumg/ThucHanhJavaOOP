@@ -16,7 +16,7 @@ public class App75 {
                 N[i] = scanner.nextInt();
             }
             int Tong =0;
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < n; i++){
                 if (N[i] % 2 == 0) {
                     Tong+=N[i];
                 }
