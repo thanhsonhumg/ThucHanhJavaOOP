@@ -29,6 +29,6 @@ public class Baitap12 {
                 if(max < A[i][j])
                     max = A[i][j];
         System.out.print("\nPhan tu lon nhat trong ma tran la: " + max);
-        sc.close();
+        sc.close() ;
     }
 }
