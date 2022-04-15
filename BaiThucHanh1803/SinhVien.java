@@ -4,7 +4,6 @@ public class SinhVien {
         String HoTen;
         Boolean GioiTinh;
         String Diachi;
-        DateTime NgaySinh;
     public void NhapthongtinSV() {
         Scanner scanner = new Scanner(System.in);
          System.out.println("Nhap vao ma sinh vien:"); 
@@ -16,8 +15,7 @@ public class SinhVien {
         System.out.println("Nhap vao dia chi sinh vien:");
         scanner.nextLine();  
         Diachi = scanner.nextLine();
-        System.out.println("Nhap vao ngay sinh sinh vien:");
-        NgaySinh = scanner.NextDate();      
+        System.out.println("Nhap vao ngay sinh sinh vien:");   
         scanner.close();          
     }
     public void Inthongtin() {
